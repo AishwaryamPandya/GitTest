@@ -13,6 +13,7 @@ while(1): # while true, keep following the loop running
     num1 = int(input("Num 1 :")) # initialize and request user to input first digit
     num2 = int(input("Num 2 :")) # # initialize and request user to input second digit
     op = input("Enter function operator:") # request user to input operand (+, -, *, /)
+    
 #==============================================================================#
 
     if(op=="+"): # if operand is "+" 
